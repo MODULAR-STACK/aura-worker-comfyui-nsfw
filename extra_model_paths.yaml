@@ -1,0 +1,8 @@
+runpod_volume:
+  base_path: /runpod-volume/
+  checkpoints: models/checkpoints
+  loras: models/loras
+  clip_vision: models/clip_vision
+  ipadapter: models/ipadapter
+  vae: models/vae
+  upscale_models: models/upscale_models
