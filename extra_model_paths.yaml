@@ -4,5 +4,6 @@ runpod_volume:
   loras: models/loras
   clip_vision: models/clip_vision
   ipadapter: models/ipadapter
+  controlnet: models/controlnet
   vae: models/vae
   upscale_models: models/upscale_models
